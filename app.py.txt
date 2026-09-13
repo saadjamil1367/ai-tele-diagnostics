@@ -1,4 +1,0 @@
-import streamlit as st
-
-st.title("AI Tele-Diagnostic Assistant")
-st.write("Welcome to Tele-Health Diagnostics Pakistan!")
