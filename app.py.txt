@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.title("AI Tele-Diagnostic Assistant")
+st.write("Welcome to Tele-Health Diagnostics Pakistan!")import streamlit as st
+
 # Page Configuration
 st.set_page_config(
     page_title="AI Tele-Diagnostic Assistant",
